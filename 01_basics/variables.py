@@ -14,5 +14,5 @@ price = 12.55
 # type checking
 print(type(name)) # string
 print(type(age))    # int
-print(type(isActive))   # boolean
+print(type(is_active))   # boolean
 print(type(price))  #float
